@@ -1,0 +1,52 @@
+TASK 2
+
+    #WELL DAMN ... Took me long enough
+    
+
+    gpg -d keyfile 
+    pass: Logan0706
+
+    gives a sqlite file
+
+
+
+
+TASK 3 - THE SQLLITE DATABSE
+
+
+    PASSWORDS
+    1	1	Zinc_Dendron	    <~7ri0PDF@oY6Z7*f@V'X82)$u~>	    1
+    2	2	ZDendron	        <~0JP:A9Q+QPD?~>	                1
+    3	3	Logan-Zinc	        <~:haf_9Q+QPD?~>	                1
+    4	4	ZDendron4050	    <~9Q+QPDD3e"2u~>	                1
+    5	5	Zinc_Dendron	    <~0KCjJ9jqO?Ec5l6Er~>	            1
+    6	6	ZincDendron174	    <~0ekCB;dj]ZAH~>	                1
+    7	7	066954050	        <~9jqO?Ec5l6Er~>	                1
+    8	8	Logan_Dendron_0706	<~:haf_9Q+QPDD3e"3&!?I3<~>	        1
+
+    SERVICES
+    1	email	            1	0
+    2	bank	            1	0
+    3	blog	            1	0
+    4	work server	        1	0
+    5	music	            1	0
+    6	login	            1	0
+    7	house alarm	        1	0
+    8	stepinator	        1	0
+
+
+    email           Zinc_Dendron	    <~7ri0PDF@oY6Z7*f@V'X82)$u~>        favorite band + favorite painter + sister's bday
+    bank            ZDendron	        <~0JP:A9Q+QPD?~>                    anniversary + pet name
+    blog            Logan-Zinc	        <~:haf_9Q+QPD?~>                    favorite color + pet name 
+    work server     ZDendron4050	    <~9Q+QPDD3e"2u~>                    pet name + anniversary
+    music           Zinc_Dendron	    <~0KCjJ9jqO?Ec5l6Er~>               first date + favorite dessert
+    login           ZincDendron174	    <~0ekCB;dj]ZAH~>                    mom's bday + dad's nickname
+    house alarm     066954050	        <~9jqO?Ec5l6Er~>                    favorite dessert
+    stepinator      Logan_Dendron_0706	<~:haf_9Q+QPDD3e"3&!?I3<~>          color + petName + anniversary + fdate
+
+
+        color ->        :haf_
+        petname ->      9Q+QPD -> Logan
+        anniversary ->  D3e"
+
+    #STEPINATOR USERNAME Logan_Dendron_0706 .... but what the hell is that password hash
